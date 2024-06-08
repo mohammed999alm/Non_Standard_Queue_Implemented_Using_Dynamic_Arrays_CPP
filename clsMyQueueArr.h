@@ -16,6 +16,7 @@ protected :
 	//clsMyDynamicArray <T>* _arr = new clsMyDynamicArray<T>(0);
 
 
+	//                         Very Important Comment You Should Read.
 	/*  
 		"Template classes have amazed me because 
 		I recently discovered that when declaring an object of a template class 
